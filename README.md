@@ -36,7 +36,7 @@ These are milestones from my Common Core journey at 42:
 | libft            | My custom C library with 40+ functions.                     | [libft](https://github.com/nourdev777/libft) |
 | minishell        | A lightweight shell with command parsing.                   | [minishell](https://github.com/nourdev777/minishell) |
 | Pong Website     | A web app with a Pong game and tournament system (team).    | [pong-website](https://github.com/nourdev777/pong-website) |
-| push_swap        | An efficient sorting algorithm for integers.                | [push_swap](coming soon)         |
+| push_swap        | An efficient sorting algorithm for integers.                | [push_swap]         |
 
 *More 42 Mastery projects coming soon!*
 
@@ -65,8 +65,8 @@ Here’s where I’ll explore AI, pet projects, and more:
 ### 📬 Get in Touch
 Let’s connect! Reach out to me via:  
 - **Email**: [nourdev777@gmail.com](mailto:nourdev777@gmail.com)  
-- **Telegram**: @nourdev777 *(если у тебя есть, добавь)*  
-- **LinkedIn**: [linkedin.com/in/nourdev777](https://linkedin.com/in/nourdev777) *(если есть, укажи настоящий URL)*  
+- **Telegram**: @Nour42AD 
+- **LinkedIn**: [linkedin.com/in/nourmurat](https://linkedin.com/in/nourmurat)
 - **Location**: Abu Dhabi 🌍  
 
 Looking forward to building something great together! 🚀
