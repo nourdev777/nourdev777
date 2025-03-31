@@ -15,35 +15,54 @@ I’m a graduate of the **Common Core** program at [42 Abu Dhabi](https://42abud
 ---
 
 ### 🛠️ My Skills
-Here’s what I’ve mastered so far:
 
-| **Language/Tech**       | **What I’ve Done**                                                                 | **Badge**                                                                                   |
-|--------------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| C                       | Built `libft`, `printf()`, `get_next_line()`, `push_swap`, 2D game, `minishell`, `philosophers`. | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)            |
-| C++                     | Explored OOP, coded an IRC server.                                                | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  |
-| Web (Django, JS, etc.)  | Created a Pong website with a tournament system in a team.                        | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| Tools                   | Worked with Bash, VMs, Docker-compose.                                            | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+#### Hard Skills 💻
+Languages, tools, and tech I’ve mastered:
+- **Languages**:  
+  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)  
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)  
+- **Frameworks & Libraries**:  
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+- **Tools**:  
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
+  ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)  
+  ![Make](https://img.shields.io/badge/-Make-FF5733?style=flat&logo=gnu&logoColor=white)  
+- **Databases**:  
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+
+#### Soft Skills 🌍
+What makes me a great teammate:
+- **Collaboration**: Thrives in team projects and group problem-solving.  
+- **Communication**: Clear and concise, whether explaining code or ideas.  
+- **Adaptability**: Quick to learn new tools and pivot when needed.  
+- **Time Management**: Balances multiple tasks and meets deadlines.  
+- **Critical Thinking**: Breaks down complex problems into actionable steps.  
+- **Creativity**: Brings fresh ideas to the table.  
+- **Resilience**: Keeps going even when the bugs get tough.  
+- **Attention to Detail**: Spots the little things that matter.  
 
 ---
 
 ### 🚀 My Projects
 
 #### 🎓 42 Abu Dhabi Projects
-These are milestones from my Common Core journey at 42:
-
-| **Project**      | **Description**                                              | **Link**                          |
-|-------------------|-------------------------------------------------------------|-----------------------------------|
-| libft            | My custom C library with 40+ functions.                     | [libft](https://github.com/nourdev777/libft) |
-| minishell        | A lightweight shell with command parsing.                   | [minishell](https://github.com/nourdev777/minishell) |
-| Pong Website     | A web app with a Pong game and tournament system (team).    | [pong-website](https://github.com/nourdev777/pong-website) |
-| push_swap        | An efficient sorting algorithm for integers.                | [push_swap]         |
-
-*More 42 Mastery projects coming soon!*
+| # | Project Name                | Description                                                                 | Tech Stack                                      |
+|---|-----------------------------|-----------------------------------------------------------------------------|------------------------------------------------|
+| 1 | [42_ft_libft](https://github.com/nourdev777/42_ft_libft) | My custom C library with 40+ functions.                         | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) |
+| 2 | [42_minishell](https://github.com/nourdev777/42_minishell) | **<span style="color:red; font-weight:bold">TEAMWORK</span>** - A lightweight shell with command parsing. | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
+| 3 | [42_cub3D](https://github.com/nourdev777/42_cub3D) | **<span style="color:red; font-weight:bold">TEAMWORK</span>** - A 3D raycasting game inspired by Wolfenstein. | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) |
+| 4 | [42_ft_irc](https://github.com/nourdev777/42_ft_irc) | **<span style="color:red; font-weight:bold">TEAMWORK</span>** - An IRC server with OOP in C++. | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
+| 5 | [42_ft_transcendence](https://github.com/nourdev777/42_ft_transcendence) | **<span style="color:red; font-weight:bold">TEAMWORK</span>** - A web-based Pong tournament system. | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
 
 #### 🌍 Personal Projects
-Here’s where I’ll explore AI, pet projects, and more:
-
-- *Currently in progress — stay tuned for AI experiments and beyond!*
+- *Coming soon: AI experiments, pet projects, and more!*
 
 ---
 
@@ -65,8 +84,8 @@ Here’s where I’ll explore AI, pet projects, and more:
 ### 📬 Get in Touch
 Let’s connect! Reach out to me via:  
 - **Email**: [nourdev777@gmail.com](mailto:nourdev777@gmail.com)  
-- **Telegram**: @Nour42AD 
-- **LinkedIn**: [linkedin.com/in/nourmurat](https://linkedin.com/in/nourmurat)
+- **Telegram**: @nourdev777 *(edit if needed)*  
+- **LinkedIn**: [linkedin.com/in/nourdev777](https://linkedin.com/in/nourdev777) *(edit if needed)*  
 - **Location**: Abu Dhabi 🌍  
 
 Looking forward to building something great together! 🚀
