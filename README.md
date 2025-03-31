@@ -5,7 +5,7 @@
 
 ---
 
-### 🌟 About Me
+## 🌟 About Me
 I’m a graduate of the **Common Core** program at [42 Abu Dhabi](https://42abudhabi.ae/), where I tackled real-world coding challenges from scratch. I’m seeking an **internship** to apply my skills and grow as a developer. Lately, I’ve been diving into **artificial intelligence** — it’s my next big adventure!
 
 - 🎓 **Education**: 42 Abu Dhabi (Common Core completed, more to come in Mastery).
@@ -14,9 +14,10 @@ I’m a graduate of the **Common Core** program at [42 Abu Dhabi](https://42abud
 
 ---
 
-### 🛠️ My Skills
+## 🛠️ My Skills
 
-#### 💻 Hard Skills
+<div align="center">
+### 💻 Hard Skills
 **Languages** — The code I speak:  
 C, C++, Python, JavaScript, HTML, CSS  
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)  
@@ -33,7 +34,7 @@ Git, Docker, Docker-compose, Bash, VirtualBox, Makefile
 PostgreSQL, MariaDB  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)  
 
-#### 🌍 Soft Skills
+### 🌍 Soft Skills
 **What fuels my teamwork and growth**:  
 - 🌟 **Collaboration**: Excel in team settings and collective problem-solving.  
 - 💬 **Communication**: Explain ideas and code with clarity.  
@@ -43,12 +44,13 @@ PostgreSQL, MariaDB
 - 🎨 **Creativity**: Think outside the box for solutions.  
 - 💪 **Resilience**: Push through tough bugs and setbacks.  
 - 🔍 **Attention to Detail**: Catch the small stuff that makes a difference.  
+</div>
 
 ---
 
-### 🚀 My Projects
+## 🚀 My Projects
 
-#### 🎓 42 Abu Dhabi Projects
+### 🎓 42 Abu Dhabi Projects
 | # | Project Name                | Description                                                                 | Tech Stack                                      |
 |---|-----------------------------|-----------------------------------------------------------------------------|------------------------------------------------|
 | 1 | [42_ft_libft](https://github.com/nourdev777/42_ft_libft) | My custom C library with 40+ functions.                         | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) |
@@ -57,19 +59,19 @@ PostgreSQL, MariaDB
 | 4 | [42_ft_irc](https://github.com/nourdev777/42_ft_irc) | <span style="color: #ff0000; font-weight: bold;">TEAMWORK</span> - An IRC server with OOP in C++. | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
 | 5 | [42_ft_transcendence](https://github.com/nourdev777/42_ft_transcendence) | <span style="color: #ff0000; font-weight: bold;">TEAMWORK</span> - A web-based Pong tournament system. | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Docker-compose](https://img.shields.io/badge/-Docker--Compose-2496ED?style=flat&logo=docker&logoColor=white) ![Make](https://img.shields.io/badge/-Make-FF5733?style=flat&logo=gnu&logoColor=white) |
 
-#### 🌍 Personal Projects
+### 🌍 Personal Projects
 - *Coming soon: AI experiments, pet projects, and more!*
 
 ---
 
-### 💡 Fun Facts
+## 💡 Fun Facts
 - I love the thrill of debugging complex code.  
 - Teamwork is my strength — collaborating on Pong was a blast!  
 - I’m excited to blend my coding skills with **AI** in the future.
 
 ---
 
-### 📊 My GitHub Stats
+## 📊 My GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nourdev777&show_icons=true&theme=radical" alt="Nour's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourdev777&layout=compact&theme=radical" alt="Top Languages" />
@@ -77,11 +79,11 @@ PostgreSQL, MariaDB
 
 ---
 
-### 📬 Get in Touch
+## 📬 Get in Touch
 Let’s connect! Reach out to me via:  
 - **Email**: [nourdev777@gmail.com](mailto:nourdev777@gmail.com)  
 - **Telegram**: @nourdev777
-- **LinkedIn**: [linkedin.com/in/nourdev777](https://linkedin.com/in/nourdev777)
+- **LinkedIn**: [linkedin.com/in/nourmurat](https://linkedin.com/in/nourmurat)
 - **Location**: Abu Dhabi 🌍  
 
 Looking forward to building something great together! 🚀
