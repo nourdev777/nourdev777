@@ -17,46 +17,31 @@ I’m a graduate of the **Common Core** program at [42 Abu Dhabi](https://42abud
 ### 🛠️ My Skills
 
 #### 💻 Hard Skills
-Mastered tech and tools:
-<div>
-  <strong>Languages</strong><br>
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C"/> C<br>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/> C++<br>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/> Python<br>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/> JavaScript<br>
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/> HTML<br>
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/> CSS<br>
-</div>
-<div>
-  <strong>Frameworks & Tools</strong><br>
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/> Django<br>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/> Docker<br>
-  <img src="https://img.shields.io/badge/-Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker-compose"/> Docker-compose<br>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> Git<br>
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/> Bash<br>
-  <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" alt="VirtualBox"/> VirtualBox<br>
-  <img src="https://img.shields.io/badge/-Make-FF5733?style=flat&logo=gnu&logoColor=white" alt="Make"/> Make<br>
-</div>
-<div>
-  <strong>Databases</strong><br>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/> PostgreSQL<br>
-  <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white" alt="MariaDB"/> MariaDB<br>
-</div>
+Languages, frameworks, tools, and databases I’ve mastered:  
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/-Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker-compose"/> <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/> <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" alt="VirtualBox"/> <img src="https://img.shields.io/badge/-Make-FF5733?style=flat&logo=gnu&logoColor=white" alt="Make"/> <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white" alt="MariaDB"/>
 
 #### 🌍 Soft Skills
 What I bring to the team:
 <div style="display: flex; justify-content: space-between;">
   <div>
-    🌟 <strong>Collaboration</strong>: Love working in teams<br>
-    💬 <strong>Communication</strong>: Clear and to the point<br>
-    🔄 <strong>Adaptability</strong>: Quick to pick up new skills<br>
-    ⏳ <strong>Time Management</strong>: Meet deadlines with ease<br>
+    🌟 **Collaboration**  
+    _Love working in teams and solving problems together._  
+    💬 **Communication**  
+    _Clear and concise in sharing ideas and code._  
+    🔄 **Adaptability**  
+    _Quick to learn new tools and adjust to changes._  
+    ⏳ **Time Management**  
+    _Efficiently balance tasks and meet deadlines._
   </div>
   <div>
-    🧠 <strong>Critical Thinking</strong>: Solve problems step-by-step<br>
-    🎨 <strong>Creativity</strong>: Fresh ideas for every challenge<br>
-    💪 <strong>Resilience</strong>: Push through tough bugs<br>
-    👁️ <strong>Attention to Detail</strong>: Catch the small stuff<br>
+    🧠 **Critical Thinking**  
+    _Break down complex issues into clear steps._  
+    🎨 **Creativity**  
+    _Bring fresh perspectives to every challenge._  
+    💪 **Resilience**  
+    _Push through even the toughest bugs._  
+    👁️ **Attention to Detail**  
+    _Spot the small things that make a big difference._
   </div>
 </div>
 
@@ -96,8 +81,8 @@ What I bring to the team:
 ### 📬 Get in Touch
 Let’s connect! Reach out to me via:  
 - **Email**: [nourdev777@gmail.com](mailto:nourdev777@gmail.com)  
-- **Telegram**: @nourdev777 *(edit if needed)*  
-- **LinkedIn**: [linkedin.com/in/nourdev777](https://linkedin.com/in/nourdev777) *(edit if needed)*  
+- **Telegram**: @nourdev777 
+- **LinkedIn**: [linkedin.com/in/nourdev777](https://linkedin.com/in/nourdev777) 
 - **Location**: Abu Dhabi 🌍  
 
 Looking forward to building something great together! 🚀
