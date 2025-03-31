@@ -16,37 +16,49 @@ I’m a graduate of the **Common Core** program at [42 Abu Dhabi](https://42abud
 
 ### 🛠️ My Skills
 
-#### Hard Skills 💻
-Languages, tools, and tech I’ve mastered:
-- **Languages**:  
-  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)  
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)  
-- **Frameworks & Libraries**:  
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-- **Tools**:  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
-  ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)  
-  ![Make](https://img.shields.io/badge/-Make-FF5733?style=flat&logo=gnu&logoColor=white)  
-- **Databases**:  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+#### 💻 Hard Skills
+Mastered tech and tools:
+<div>
+  <strong>Languages</strong><br>
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C"/> C<br>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/> C++<br>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/> Python<br>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/> JavaScript<br>
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/> HTML<br>
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/> CSS<br>
+</div>
+<div>
+  <strong>Frameworks & Tools</strong><br>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/> Django<br>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/> Docker<br>
+  <img src="https://img.shields.io/badge/-Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker-compose"/> Docker-compose<br>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> Git<br>
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/> Bash<br>
+  <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" alt="VirtualBox"/> VirtualBox<br>
+  <img src="https://img.shields.io/badge/-Make-FF5733?style=flat&logo=gnu&logoColor=white" alt="Make"/> Make<br>
+</div>
+<div>
+  <strong>Databases</strong><br>
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/> PostgreSQL<br>
+  <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white" alt="MariaDB"/> MariaDB<br>
+</div>
 
-#### Soft Skills 🌍
-What makes me a great teammate:
-- **Collaboration**: Thrives in team projects and group problem-solving.  
-- **Communication**: Clear and concise, whether explaining code or ideas.  
-- **Adaptability**: Quick to learn new tools and pivot when needed.  
-- **Time Management**: Balances multiple tasks and meets deadlines.  
-- **Critical Thinking**: Breaks down complex problems into actionable steps.  
-- **Creativity**: Brings fresh ideas to the table.  
-- **Resilience**: Keeps going even when the bugs get tough.  
-- **Attention to Detail**: Spots the little things that matter.  
+#### 🌍 Soft Skills
+What I bring to the team:
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    🌟 <strong>Collaboration</strong>: Love working in teams<br>
+    💬 <strong>Communication</strong>: Clear and to the point<br>
+    🔄 <strong>Adaptability</strong>: Quick to pick up new skills<br>
+    ⏳ <strong>Time Management</strong>: Meet deadlines with ease<br>
+  </div>
+  <div>
+    🧠 <strong>Critical Thinking</strong>: Solve problems step-by-step<br>
+    🎨 <strong>Creativity</strong>: Fresh ideas for every challenge<br>
+    💪 <strong>Resilience</strong>: Push through tough bugs<br>
+    👁️ <strong>Attention to Detail</strong>: Catch the small stuff<br>
+  </div>
+</div>
 
 ---
 
