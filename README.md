@@ -6,39 +6,51 @@
 ---
 
 ### 🌟 About Me
-I’m a graduate of the **Common Core** program at [42 Abu Dhabi](https://42abudhabi.ae/), where I honed my skills through challenging, hands-on projects. I’m seeking an **internship** to kickstart my tech journey and bring my enthusiasm to real-world problems. Recently, I’ve started diving into **artificial intelligence** — it’s the future, and I want to be part of it!
+I’m a graduate of the **Common Core** program at [42 Abu Dhabi](https://42abudhabi.ae/), where I tackled real-world coding challenges from scratch. I’m seeking an **internship** to apply my skills and grow as a developer. Lately, I’ve been diving into **artificial intelligence** — it’s my next big adventure!
+
+- 🎓 **Education**: 42 Abu Dhabi (Common Core completed, more to come in Mastery).
+- 💡 **Interests**: AI, problem-solving, and building useful tools.
+- 🌱 **Currently Learning**: Foundations of AI and machine learning.
 
 ---
 
-### 🛠️ What I Bring to the Table
-- **C**  
-  Built `libft`, coded `printf()`, `get_next_line()`, a `push_swap` sorter, a 2D game, `minishell`, and tackled multi-threading with `philosophers`.  
-  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-- **C++**  
-  Explored OOP and developed an IRC server.  
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-- **Web Development**  
-  Teamed up to create a website with a Pong game and tournament system using **Django**, **PostgreSQL**, **HTML**, **CSS**, and **JavaScript**.  
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **Tools**  
-  Comfortable with **Bash**, **VMs**, and **Docker-compose**.  
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+### 🛠️ My Skills
+Here’s what I’ve mastered so far:
+
+| **Language/Tech**       | **What I’ve Done**                                                                 | **Badge**                                                                                   |
+|--------------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| C                       | Built `libft`, `printf()`, `get_next_line()`, `push_swap`, 2D game, `minishell`, `philosophers`. | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)            |
+| C++                     | Explored OOP, coded an IRC server.                                                | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  |
+| Web (Django, JS, etc.)  | Created a Pong website with a tournament system in a team.                        | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| Tools                   | Worked with Bash, VMs, Docker-compose.                                            | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
 ---
 
 ### 🚀 My Projects
-- **[libft](https://github.com/nourdev777/libft)** — My custom C library from scratch.  
-- **[minishell](https://github.com/nourdev777/minishell)** — A lightweight shell with command parsing.  
-- **[Pong Website](https://github.com/nourdev777/pong-website)** — A fun web app with a tournament system (team project).  
 
-*(Links will be updated as I upload my work! Stay tuned!)*
+#### 🎓 42 Abu Dhabi Projects
+These are milestones from my Common Core journey at 42:
+
+| **Project**      | **Description**                                              | **Link**                          |
+|-------------------|-------------------------------------------------------------|-----------------------------------|
+| libft            | My custom C library with 40+ functions.                     | [libft](https://github.com/nourdev777/libft) |
+| minishell        | A lightweight shell with command parsing.                   | [minishell](https://github.com/nourdev777/minishell) |
+| Pong Website     | A web app with a Pong game and tournament system (team).    | [pong-website](https://github.com/nourdev777/pong-website) |
+| push_swap        | An efficient sorting algorithm for integers.                | [push_swap](coming soon)         |
+
+*More 42 Mastery projects coming soon!*
+
+#### 🌍 Personal Projects
+Here’s where I’ll explore AI, pet projects, and more:
+
+- *Currently in progress — stay tuned for AI experiments and beyond!*
 
 ---
 
 ### 💡 Fun Facts
-- I thrive on solving tricky problems and learning through trial and error.  
-- Teamwork makes the dream work — loved collaborating on our web project!  
-- Currently geeking out over **AI** and its endless possibilities.
+- I love the thrill of debugging complex code.  
+- Teamwork is my strength — collaborating on Pong was a blast!  
+- I’m excited to blend my coding skills with **AI** in the future.
 
 ---
 
@@ -51,10 +63,13 @@ I’m a graduate of the **Common Core** program at [42 Abu Dhabi](https://42abud
 ---
 
 ### 📬 Get in Touch
+Let’s connect! Reach out to me via:  
 - **Email**: [nourdev777@gmail.com](mailto:nourdev777@gmail.com)  
+- **Telegram**: @nourdev777 *(если у тебя есть, добавь)*  
+- **LinkedIn**: [linkedin.com/in/nourdev777](https://linkedin.com/in/nourdev777) *(если есть, укажи настоящий URL)*  
 - **Location**: Abu Dhabi 🌍  
 
-Let’s build something awesome together! 🚀
+Looking forward to building something great together! 🚀
 
 <!--
 **nourdev777/nourdev777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
