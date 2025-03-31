@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 About Me
-I’m a graduate of the **Common Core** program at [42 Abu Dhabi](https://42abudhabi.ae/), where I tackled real-world coding challenges from scratch. I’m seeking an **internship** to apply my skills and grow as a developer. Lately, I’ve been diving into **artificial intelligence** — it’s my next big adventure!
+I’m a graduate of the **Common Core** program at [42 Abu Dhabi](https://42abudhabi.ae/), where I tackled real-world coding challenges from scratch. Lately, I’ve been diving into **artificial intelligence** — it’s my next big adventure!
 
 - 🎓 **Education**: 42 Abu Dhabi (Common Core completed, more to come in Mastery).
 - 💡 **Interests**: AI, problem-solving, and building useful tools.
