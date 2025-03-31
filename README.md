@@ -23,15 +23,15 @@ C, C++, Python, JavaScript, HTML, CSS
 
 **Frameworks & Libraries** — My building blocks:  
 Django, Bootstrap  
-![Django](https://img.shields.io/badge/-Django-092E20风格=flat&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3风格=flat&logo=bootstrap&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
 
 **Tools** — My trusty toolkit:  
 Git, Docker, Docker-compose, Bash, VirtualBox, Makefile  
-![Git](https://img.shields.io/badge/-Git-F05032风格=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED风格=flat&logo=docker&logoColor=white) ![Docker-compose](https://img.shields.io/badge/-Docker--Compose-2496ED风格=flat&logo=docker&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25风格=flat&logo=gnu-bash&logoColor=white) ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61风格=flat&logo=virtualbox&logoColor=white) ![Make](https://img.shields.io/badge/-Make-FF5733风格=flat&logo=gnu&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Docker-compose](https://img.shields.io/badge/-Docker--Compose-2496ED?style=flat&logo=docker&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white) ![Make](https://img.shields.io/badge/-Make-FF5733?style=flat&logo=gnu&logoColor=white)  
 
 **Databases** — Where I store the data:  
 PostgreSQL, MariaDB  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791风格=flat&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545风格=flat&logo=mariadb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)  
 
 #### 🌍 Soft Skills
 **What fuels my teamwork and growth**:  
@@ -51,11 +51,11 @@ PostgreSQL, MariaDB
 #### 🎓 42 Abu Dhabi Projects
 | # | Project Name                | Description                                                                 | Tech Stack                                      |
 |---|-----------------------------|-----------------------------------------------------------------------------|------------------------------------------------|
-| 1 | [42_ft_libft](https://github.com/nourdev777/42_ft_libft) | My custom C library with 40+ functions.                         | ![C](https://img.shields.io/badge/-C-A8B9CC风格=flat&logo=c&logoColor=white) |
-| 2 | [42_minishell](https://github.com/nourdev777/42_minishell) | **<span style="color:red">TEAMWORK</span>** - A lightweight shell with command parsing. | ![C](https://img.shields.io/badge/-C-A8B9CC风格=flat&logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25风格=flat&logo=gnu-bash&logoColor=white) |
-| 3 | [42_cub3D](https://github.com/nourdev777/42_cub3D) | **<span style="color:red">TEAMWORK</span>** - A 3D raycasting game inspired by Wolfenstein. | ![C](https://img.shields.io/badge/-C-A8B9CC风格=flat&logo=c&logoColor=white) |
-| 4 | [42_ft_irc](https://github.com/nourdev777/42_ft_irc) | **<span style="color:red">TEAMWORK</span>** - An IRC server with OOP in C++. | ![C++](https://img.shields.io/badge/-C++-00599C风格=flat&logo=c%2B%2B&logoColor=white) |
-| 5 | [42_ft_transcendence](https://github.com/nourdev777/42_ft_transcendence) | **<span style="color:red">TEAMWORK</span>** - A web-based Pong tournament system. | ![Django](https://img.shields.io/badge/-Django-092E20风格=flat&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E风格=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26风格=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6风格=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3风格=flat&logo=bootstrap&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791风格=flat&logo=postgresql&logoColor=white) ![Docker-compose](https://img.shields.io/badge/-Docker--Compose-2496ED风格=flat&logo=docker&logoColor=white) ![Make](https://img.shields.io/badge/-Make-FF5733风格=flat&logo=gnu&logoColor=white) |
+| 1 | [42_ft_libft](https://github.com/nourdev777/42_ft_libft) | My custom C library with 40+ functions.                         | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) |
+| 2 | [42_minishell](https://github.com/nourdev777/42_minishell) | <span style="color: #ff0000; font-weight: bold;">TEAMWORK</span> - A lightweight shell with command parsing. | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
+| 3 | [42_cub3D](https://github.com/nourdev777/42_cub3D) | <span style="color: #ff0000; font-weight: bold;">TEAMWORK</span> - A 3D raycasting game inspired by Wolfenstein. | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) |
+| 4 | [42_ft_irc](https://github.com/nourdev777/42_ft_irc) | <span style="color: #ff0000; font-weight: bold;">TEAMWORK</span> - An IRC server with OOP in C++. | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
+| 5 | [42_ft_transcendence](https://github.com/nourdev777/42_ft_transcendence) | <span style="color: #ff0000; font-weight: bold;">TEAMWORK</span> - A web-based Pong tournament system. | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Docker-compose](https://img.shields.io/badge/-Docker--Compose-2496ED?style=flat&logo=docker&logoColor=white) ![Make](https://img.shields.io/badge/-Make-FF5733?style=flat&logo=gnu&logoColor=white) |
 
 #### 🌍 Personal Projects
 - *Coming soon: AI experiments, pet projects, and more!*
