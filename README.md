@@ -18,13 +18,14 @@ I’m a graduate of the **Common Core** program at [42 Abu Dhabi](https://42abud
 
 | Category           | Description |
 |-------------------|-------------|
-| **Programming**   | C, C++, Python, JavaScript, HTML, CSS |
-| **Data Structures & Algorithms** | Sorting algorithms (push_swap), linked lists, memory management (malloc/free), multithreading (philosophers problem) |
+| **Programming**   | C, C++, Python |
+| **Data Structures & Algorithms** | Sorting algorithms, linked lists, memory management (malloc/free), multithreading (philosophers problem) |
 | **Systems & Networking** | Process management, signals, socket programming, IP addressing, subnet masks |
-| **DevOps & Tools** | Git, Docker, Docker-compose, Bash, Makefile, VirtualBox, Linux |
-| **Web Development** | Django, PostgreSQL, HTML, CSS, JavaScript, Bootstrap, REST APIs |
+| **DevOps & Tools** | Docker, Docker-compose, Bash, Makefile, VirtualBox, Linux |
+| **Web Development** | Django, PostgreSQL, JavaScript, HTML, CSS, Bootstrap, REST APIs |
+| **Data Base** | PostgreSQL, pgAdmin4, MariaDB |
 | **Software Engineering** | Object-Oriented Programming (OOP), design patterns, server development (IRC server), debugging |
-| **Team Projects** | 4 collaborative projects, including a full-stack web-based Pong tournament system, an IRC server, and more. |
+| **Team Projects** | 4 collaborative projects, including a full-stack web-based Pong with tournament system, an IRC server, and more. |
 
 ---
 
@@ -37,7 +38,7 @@ I’m a graduate of the **Common Core** program at [42 Abu Dhabi](https://42abud
 | 2  | [42_minishell](https://github.com/nourdev777/42_minishell) | A lightweight Unix shell implementing command parsing, execution, piping, and signal handling. | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
 | 3  | [42_cub3D](https://github.com/nourdev777/42_cub3D) | A 3D raycasting engine inspired by Wolfenstein 3D, featuring texture rendering and smooth movement. | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) |
 | 4  | [42_ft_irc](https://github.com/nourdev777/42_ft_irc) | A multi-user IRC server built in C++ with features like authentication, channels, and messaging. | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
-| 5  | [42_ft_transcendence](https://github.com/nourdev777/42_ft_transcendence) | A full-stack web-based Pong tournament system with authentication, chat, and matchmaking. | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| 5  | [42_ft_transcendence](https://github.com/nourdev777/42_ft_transcendence) | A full-stack web-based Pong with tournament system and authentication and matchmaking. | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 
 ---
 
