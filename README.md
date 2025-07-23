@@ -22,7 +22,7 @@ I’m a graduate of the **Common Core** program at [42 Abu Dhabi](https://42abud
 | **Data Structures & Algorithms** | Sorting algorithms, linked lists, memory management (malloc/free), multithreading (philosophers problem) |
 | **Systems & Networking** | Process management, signals, socket programming, IP addressing, subnet masks |
 | **DevOps & Tools** | Docker, Docker-compose, Bash, Makefile, VirtualBox, Linux |
-| **Web Development** | Django, PostgreSQL, JavaScript, HTML, CSS, Bootstrap, REST APIs |
+| **Web Development** | Django, JavaScript, HTML, CSS, Bootstrap, REST APIs |
 | **Data Base** | PostgreSQL, pgAdmin4, MariaDB |
 | **Software Engineering** | Object-Oriented Programming (OOP), design patterns, server development (IRC server), debugging |
 | **Team Projects** | 4 collaborative projects, including a full-stack web-based Pong with tournament system, an IRC server, and more. |
